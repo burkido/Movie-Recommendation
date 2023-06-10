@@ -1,0 +1,7 @@
+fastapi
+pandas
+scikit-learn
+numpy
+faker
+pytest
+httpx
