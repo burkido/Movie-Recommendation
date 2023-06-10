@@ -47,7 +47,7 @@ To run the project, follow these steps:
 
 1. Install the required dependencies by running `pip install -r requirements.txt`.
 
-2. Preprocess the dataset and generate the required files by running the `preprocessing.ipynb` notebook in the `notebooks/` directory.
+2. Preprocess the dataset and generate the required files by running the `preprocessing.ipynb` notebook in the `notebooks/` directory. Note: Don't forget to unzip preprocessed.csv.zip and titles.pkl.zip to move directly.
 
 3. Train the recommendation model using the processed dataset by running the appropriate scripts in the `models/` directory.
 
