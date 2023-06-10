@@ -72,3 +72,6 @@ Note: Make sure to update the necessary configuration settings, such as CORS ori
 Feel free to modify and customize the project structure and files to suit your specific needs.
 
 That's it! You should now have the project set up and ready to run.
+
+# Demonstration
+![alt text](https://raw.githubusercontent.com/burkido/Movie-Recommendation/main/demonstration.png)
